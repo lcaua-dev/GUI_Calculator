@@ -1,0 +1,19 @@
+QPushButton {
+    color: #fff;
+    background: #29262e;
+    }
+
+QPushButton[cssClass="specialButton"] {
+    color: #fff;
+    background: #9971d9;
+    }
+
+QPushButton[cssClass="specialButton"]:hover {
+    color: #fff;
+    background: #875fc7;
+    }
+
+QPushButton[cssClass="specialButton"]:pressed {
+    color: #fff;
+    background: #6e47ad;
+    }
